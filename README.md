@@ -64,3 +64,8 @@
 - K_Means 군집
 - Mean_Shift 군집
 - GMM 군집
+
+## 8. 딥러닝
+- Tensorflow 기본 모델링
+- RNN으로 자연어처리
+- CNN으로 이미지처리
